@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "AFKBot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Ramadan2026_OR2.aternos.me",
+    "ip": "OR_Servers.aternos.me",
     "port": 17969,
     "version": "",
     "try-creative": false
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a Bot",
+        "OR_Server is the Best!",
         "I like to play Minecraft!"
       ]
     },
